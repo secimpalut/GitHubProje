@@ -4,4 +4,5 @@ public static void main(String args[]) {
     System.out.println("Fatih geldi ve ekledi.");
     System.out.println("Secim abi bir de branch oluştursan hayrına da masteri bozmasak:)");
     System.out.println("Fatih branch oluşturdu");
+    System.out.println("Fatih branch güncelledi");
 }
